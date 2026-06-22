@@ -13,7 +13,7 @@
     "allowTrim": true,
     "allowRotation": true,
     "template": "Test.mst",
-    "fileExt": "xml"
+    "fileExt": "json"
   },
   {
     "type": "JSON (hash)",
