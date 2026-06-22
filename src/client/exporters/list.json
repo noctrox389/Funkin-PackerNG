@@ -16,7 +16,7 @@
     "fileExt": "json"
   },
   {
-    "type": "JSON (hash)",
+    "type": "JSON (hash)XD",
     "description": "Json hash",
     "allowTrim": true,
     "allowRotation": true,
