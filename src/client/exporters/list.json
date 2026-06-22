@@ -8,6 +8,14 @@
     "fileExt": "xml"
   },
   {
+    "type": "Spritemap json",
+    "description": "Spritemapformat",
+    "allowTrim": true,
+    "allowRotation": true,
+    "template": "Test.mst",
+    "fileExt": "xml"
+  },
+  {
     "type": "JSON (hash)",
     "description": "Json hash",
     "allowTrim": true,
